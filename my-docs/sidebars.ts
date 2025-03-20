@@ -6,10 +6,12 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'CONNECTING TO PRIVATE RPC',
+      collapsed: false,
       items: [
         {
           type: 'category',
           label: 'MetaMask',
+          collapsed: false,
           items: [
             'rpc/metamask',
             'rpc/install-metamask',
