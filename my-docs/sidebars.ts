@@ -29,6 +29,27 @@ const sidebars: SidebarsConfig = {
             'rpc/tokenpocket/connecting-to-rpc-url',
           ],
         },
+        // {
+        //   type: 'category',
+        //   label: 'MetaMask',
+        //   collapsed: false,
+        //   items: [
+        //     'zh-CN/rpc/metamask/metamask',
+        //     'zh-CN/rpc/metamask/install-metamask',
+        //     'zh-CN/rpc/metamask/pc-connects-to-rpc-url',
+        //     'zh-CN/rpc/metamask/mobileconnection-rpc-url',
+        //   ],
+        // },
+        // {
+        //   type: 'category',
+        //   label: 'TokenPocket',
+        //   collapsed: false,
+        //   items: [
+        //     'zh-CN/rpc/tokenpocket/tokenpocket',
+        //     'zh-CN/rpc/tokenpocket/install-tokenpocket',
+        //     'zh-CN/rpc/tokenpocket/connecting-to-rpc-url',
+        //   ],
+        // },
       ],
     },
   ],

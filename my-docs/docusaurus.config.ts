@@ -17,8 +17,16 @@ const config: Config = {
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh',
+    locales: ['zh', 'en'],
+    localeConfigs: {
+      zh: {
+        label: '简体中文',
+      },
+      en: {
+        label: 'English',
+      },
+    },
   },
 
   presets: [
@@ -43,19 +51,23 @@ const config: Config = {
         src: 'img/logo/bnbking_logo.svg',
         srcDark: 'img/logo/bnbking_logo_w.svg',
       },
-      // items: [
-      //   {
-      //     type: 'docSidebar',
-      //     sidebarId: 'docs',
-      //     position: 'left',
-      //     label: 'Docs',
-      //   },
-      //   {
-      //     href: 'https://github.com/BNBKingClub/BNBKING-DOCS',
-      //     label: 'GitHub',
-      //     position: 'right',
-      //   },
-      // ],
+      items: [
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'docs',
+        //   position: 'left',
+        //   label: 'Docs',
+        // },
+        // {
+        //   href: 'https://github.com/BNBKingClub/BNBKING-DOCS',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
+      ],
     },
     footer: {
       style: 'dark',
