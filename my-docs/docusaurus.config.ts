@@ -17,14 +17,15 @@ const config: Config = {
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'zh-CN'],
+    defaultLocale: 'zh-CN',
+    locales: ['zh-CN', 'en'],
     localeConfigs: {
       en: {
         label: 'English',
       },
       'zh-CN': {
         label: '简体中文',
+        path: 'zh-CN',
       },
     },
   },
@@ -36,6 +37,8 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: '/',
+          path: 'docs',
+          includeCurrentVersion: true,
         },
         theme: {
           customCss: './src/css/custom.css',
