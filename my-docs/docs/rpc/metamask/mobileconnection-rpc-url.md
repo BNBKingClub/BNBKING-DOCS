@@ -12,7 +12,7 @@ After unlocking, click the **network switch** option at the top of the main inte
 
 In the expanded menu, select **"Add Network."**
 
-![MetaMask Main Interface](../../../static/img/screenshot/metamask/mobile-main-interface.png)
+![MetaMask Main Interface](../../../static/img/screenshot/metamask/mobile-main-interface.webp)
 
 ---
 
@@ -20,7 +20,7 @@ In the expanded menu, select **"Add Network."**
 
 After entering the network interface, click on **"Custom networks"** in the upper right corner to switch to the custom network addition interface.
 
-![Switch to Custom Networks](../../../static/img/screenshot/metamask/mobile-custom-networks.png)
+![Switch to Custom Networks](../../../static/img/screenshot/metamask/mobile-custom-networks.webp)
 
 ---
 
@@ -32,7 +32,7 @@ After entering the network interface, click on **"Custom networks"** in the uppe
 - **Currency Symbol (Optional)**: `BNB`  
 - **Block Explorer URL**: (Optional)
 
-![Switch to Network](../../../static/img/screenshot/metamask/mobile-switch-network.png)
+![Switch to Network](../../../static/img/screenshot/metamask/mobile-switch-network.webp)
 
 ---
 

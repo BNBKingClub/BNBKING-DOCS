@@ -10,17 +10,17 @@ sidebar_label: PC Connects to RPC URL
 
 Click the MetaMask icon in your browser's extensions, and enter your password to unlock your wallet.
 
-![Open MetaMask Extension](../../../static/img/screenshot/metamask/open-extension.png)
+![Open MetaMask Extension](../../../static/img/screenshot/metamask/open-extension.webp)
 
 In the extension, click the network switch button in the upper left corner to access the **"Select a Network"** interface.
 
 In the pop-up **"Add Network"** page, click the **"Add Network"** button at the bottom.
 
-![Select Network](../../../static/img/screenshot/metamask/select-network.png)
+![Select Network](../../../static/img/screenshot/metamask/select-network.webp)
 
 Click **"Add a network manually"** in the lower left corner of the page.
 
-![Add Manually](../../../static/img/screenshot/metamask/add-network-manually.png)
+![Add Manually](../../../static/img/screenshot/metamask/add-network-manually.webp)
 
 ---
 
@@ -32,7 +32,7 @@ Click **"Add a network manually"** in the lower left corner of the page.
 - **Currency symbol**: `BNB`  
 - **Block explorer URL**: (Optional)
 
-![Network Form](../../../static/img/screenshot/metamask/network-form.png)
+![Network Form](../../../static/img/screenshot/metamask/network-form.webp)
 
 ---
 
@@ -44,4 +44,4 @@ You can switch to the corresponding network in the pop-up window after adding it
 
 You can also click the network drop-down menu in the upper left corner of the interface to select the corresponding network for switching.
 
-![Save Network](../../../static/img/screenshot/metamask/save-network.png)
+![Save Network](../../../static/img/screenshot/metamask/save-network.webp)
