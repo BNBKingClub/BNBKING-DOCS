@@ -1,119 +1,163 @@
 ---
 id: install-tokenpocket
-title: Install TokenPocket
-sidebar_label: Install TokenPocket
+title: 安装 TokenPocket
+sidebar_label: 安装 TokenPocket
 ---
 
-# Install TokenPocket
+# 安装 TokenPocket
 
-## Browser Extension (PC)
+## PC浏览器
 
-### 1. Visit the TokenPocket Official Website
+在浏览器上安装 TokenPocket 的步骤：
 
-Open your browser and go to the TokenPocket Official Website.
+### 1. 访问 TokenPocket 官网
 
-### 2. Download the TokenPocket Extension
-
-On the website, find the download option. Usually, there will be links for extensions compatible with browsers like Chrome.
-
-Click the download button suitable for your browser.
-
-### 3. Add the Extension to Your Browser
-
-Once you enter the browser's extension store, click "Add to Browser" to install.
-
-If you are using Chrome, you will be redirected to the Chrome Web Store; click "Add to Chrome."
-
-### 4. Confirm the Installation
-
-Follow the prompts from your browser to confirm adding the TokenPocket extension.
-
-After installation, you will see the TokenPocket icon in the upper right corner of your browser.
-
-### 5. Open the TokenPocket Extension
-
-Follow the prompts from your browser to confirm adding the TokenPocket extension.
-
-After installation, you will see the **TokenPocket icon** in the upper right corner of your browser.
-
-Click on the TokenPocket icon to **launch the extension**.
+打开浏览器，访问  
+[TokenPocket 官方网站](https://www.tokenpocket.pro)
 
 ---
 
-### 6. Create or Import a Wallet
+### 2. 下载 TokenPocket 扩展
 
-- **Create New Wallet**: If you are a first-time user, select “Create New Wallet.”
-- **Import Wallet**: If you already have a wallet, select “Import Wallet” and follow the prompts to enter your mnemonic phrase or private key.
-
-#### Important Notes
-
-- **Security**: Ensure that you securely store your mnemonic phrase and private key; **never share them** with others.
-- **Regular Updates**: Keep the TokenPocket extension updated to access the latest features and security patches.
-
-> By following these steps, you can successfully install TokenPocket on your browser.
+在官网上，找到下载选项。通常在首页或下载页面会有适用于 Chrome 或其他浏览器的扩展程序链接。  
+点击适合您浏览器的下载按钮。
 
 ---
 
-## iOS
+### 3. 添加扩展到浏览器
 
-### Steps to Install TokenPocket on iOS:
+进入浏览器的扩展商店后，点击“添加到浏览器”进行安装。  
+如果是 Chrome 浏览器，您将被引导到 Chrome 网上应用店，点击“添加到 Chrome”。
 
-1. **Open the App Store**  
-   On your iOS device, find and open the App Store.
-
-2. **Search for TokenPocket**  
-   In the search bar, type **TokenPocket** and tap **Search**.
-
-3. **Download the App**  
-   Locate the TokenPocket app in the search results and tap the **Get** button (or the cloud icon) to download and install.
-
-4. **Wait for Installation**  
-   Once the app is installed, you will see the TokenPocket icon on your home screen.
-
-5. **Open TokenPocket**  
-   Tap the TokenPocket icon to launch the app.
-
-6. **Create or Import a Wallet**  
-   - **Create Wallet**: Follow the prompts to set up your new wallet.  
-   - **Import Wallet**: Enter your mnemonic phrase or private key.
-
-#### Important Notes
-
-- **Security**: Keep your mnemonic phrase and private key safe and secure; do **not share** them with anyone.
-- **Regular Updates**: Ensure the TokenPocket app is updated regularly to benefit from the latest features and security enhancements.
-
-> By following these steps, you can successfully install TokenPocket on your iOS device.
 
 ---
 
-## Android
+### 4. 确认安装
 
-### Installing and Creating TokenPocket on Android Devices
+按照浏览器的提示，确认添加 TokenPocket 扩展。  
+安装完成后，您会在浏览器的右上角看到 TokenPocket 的图标。
 
-1. **Download the App**  
-   - Open **Google Play Store**: Locate and open the Play Store on your Android device.  
-   - **Search** for TokenPocket: Type `"TokenPocket"` into the search bar and tap the search icon.  
-   - **Click Install**: Tap the **Install** button and wait for installation to complete.
+---
 
-2. **Open the App**  
-   - Launch the app by tapping **"Open"** or finding it in your app list.
+### 5. 打开 TokenPocket 扩展
 
-3. **Create a New Wallet**  
-   - On the main screen, tap **"Create Wallet"** (or choose **"Import Wallet"** if applicable).
+点击浏览器右上角的 TokenPocket 图标，启动扩展。
 
-4. **Set a Password**  
-   - Enter a **secure password**, including letters, numbers, and symbols.  
-   - Re-enter the password to confirm, then tap **"Confirm"** or **"Next"**.
+---
 
-5. **Backup the Recovery Phrase**  
-   - View the **12-word recovery phrase** carefully.  
-   - **Write it down** and store securely. **Never share** it with anyone.
+### 6. 创建或导入钱包
 
-6. **Complete Setup**
-   - Read Security Tips: After backing up the recovery phrase, you may see some security tips. Read and understand them carefully.
-   - Confirm Completion: Click the "Finish" or "Get Started" button to enter the main interface of TokenPocket.
-7. **Start Using**
-   - Explore Features: You can now manage cryptocurrencies, access decentralized applications (DApps), and make transactions in TokenPocket.
-   - Always stay vigilant during the download and usage process to protect your recovery phrase and password.
+- 如果您是第一次使用，可以选择“创建新钱包”。  
+- 如果您已有钱包，可以选择“导入钱包”，并按照提示输入助记词或私钥进行导入。
 
-Always stay vigilant during the download and usage process to protect your recovery phrase and password.
+---
+
+### 重要注意事项
+
+- **安全性**：确保将助记词和私钥妥善保管，切勿分享给他人。  
+- **定期更新**：保持 TokenPocket 扩展的更新，以获取最新的功能和安全修复。
+
+> 按照以上步骤，您就可以成功在浏览器上安装 TokenPocket。
+
+---
+
+## iOS 设备
+
+在 iOS 上安装 TokenPocket 的步骤：
+
+### 1. 打开 App Store
+
+在您的 iOS 设备上，找到并打开 App Store。
+
+---
+
+### 2. 搜索 TokenPocket
+
+在搜索栏中输入 TokenPocket，然后点击搜索。
+
+---
+
+### 3. 下载应用
+
+在搜索结果中找到 TokenPocket 应用，点击获取按钮（或云朵图标）进行下载和安装。
+
+---
+
+### 4. 等待安装
+
+安装完成后，您将在主屏幕上看到 TokenPocket 图标。
+
+---
+
+### 5. 打开 TokenPocket
+
+点击 TokenPocket 图标以启动应用。
+
+---
+
+### 6. 创建或导入钱包
+
+- 如果您是新用户，选择“创建钱包”，并按照提示进行设置。  
+- 如果您已有钱包，选择“导入钱包”，并按提示输入您的助记词或私钥。
+
+---
+
+### 注意事项
+
+- **安全性**：请妥善保管您的助记词和私钥，切勿与他人分享。  
+- **定期更新**：定期更新 TokenPocket 应用，以确保获得最新的功能和安全修复。
+
+> 按照这些步骤，您就可以成功在 iOS 设备上安装 TokenPocket。
+
+---
+
+## Android 设备
+
+在安卓设备安装 TokenPocket 的步骤：
+
+### 1. 下载应用
+
+- 打开 Google Play 商店：在您的安卓设备上找到并打开 Google Play 商店。  
+- 搜索 TokenPocket：在搜索栏中输入“TokenPocket”，然后点击搜索图标。  
+- 点击安装：找到 TokenPocket 应用，点击“安装”按钮，等待下载和安装完成。
+
+---
+
+### 2. 打开应用
+
+- 启动应用：安装完成后，点击“打开”按钮，或在应用列表中找到 TokenPocket 图标并点击它。
+
+---
+
+### 3. 创建新钱包
+
+- 选择“创建钱包”：在主界面，您会看到“创建钱包”和“导入钱包”两个选项，选择“创建钱包”。
+
+---
+
+### 4. 设置密码
+
+- 输入密码：根据提示输入一个安全的密码，确保密码包含字母、数字和符号，以增强安全性。  
+- 确认密码：重新输入密码以确认无误，然后点击“确认”或“下一步”。
+
+---
+
+### 5. 备份助记词
+
+- 查看助记词：系统会生成一组助记词（通常是 12 个单词），请务必仔细阅读并记住。  
+- 记录助记词：将助记词写下来并妥善保存，切勿与他人分享，因为这是恢复钱包的唯一方式。
+
+---
+
+### 6. 完成设置
+
+- 阅读安全提示：在备份助记词后，您可能会看到一些安全提示，仔细阅读并理解。  
+- 确认完成：点击“完成”或“开始使用”按钮，您将进入 TokenPocket 的主界面。
+
+---
+
+### 7. 开始使用
+
+- 探索功能：现在您可以在 TokenPocket 中管理加密货币，访问去中心化应用（DApps），进行交易等。
+
+> 确保在下载和使用过程中，始终保持警惕，保护您的助记词和密码安全。

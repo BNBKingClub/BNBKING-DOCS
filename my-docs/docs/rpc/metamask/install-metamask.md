@@ -1,171 +1,185 @@
 ---
 id: install-metamask
-title: Install MetaMask
-sidebar_label: Install MetaMask
+title: 安装 MetaMask
+sidebar_label: 安装 MetaMask
 ---
 
-# Install MetaMask
+# 安装 MetaMask
 
+## 下载地址
 
-## Download Links
-
-- **Official Website**: [MetaMask Official Website](https://metamask.io)
-- **Browser**: [Chrome Web Store](https://chrome.google.com/webstore/detail/metamask)
-- **Apple Devices (iOS)**: [Apple Store](https://apps.apple.com/app/metamask/id1438144202)
-- **Android Devices**: [Google Play](https://play.google.com/store/apps/details?id=io.metamask)
-
+- **官网**: [MetaMask官方网站 ](https://metamask.io)
+- **浏览器**: [Chrome应用商店  ](https://chrome.google.com/webstore/detail/metamask)
+- **苹果设备 (iOS)**: [Apple Store](https://apps.apple.com/app/metamask/id1438144202)
+- **安卓设备（Android）**: [Google Play](https://play.google.com/store/apps/details?id=io.metamask)
 ---
 
-## PC Browser
+## PC浏览器
 
-### 1. Install MetaMask
+### 一、安装MetaMask
 
-**Visit the MetaMask Official Website**  
-Open your browser and go to the MetaMask official website.
+**访问MetaMask官方网站：**  
+打开浏览器，访问 MetaMask官方网站。
 
-**Download the Extension**  
-Click the “Download” button on the page and select your browser (such as Chrome, Firefox, Brave, etc.).  
-Go to the browser's extension store and click “Add to Browser” to install.
+**下载扩展：**  
+点击页面上的“下载”按钮，选择您使用的浏览器（如Chrome、Firefox、Brave等）。  
+进入浏览器的扩展商店，点击“添加到浏览器”进行安装。
 
-**Confirm Installation**  
-Follow the browser prompts to confirm adding the MetaMask extension. After installation, the MetaMask icon will appear in the upper right corner of the browser.
-
-### 2. Create a MetaMask Wallet
-
-**Open the MetaMask Extension**  
-Click the MetaMask icon in the upper right corner of the browser to open the extension.
-
-**Start Setup**  
-Click the “Get Started” button.
-
-**Create a New Wallet**  
-Select the “Create a Wallet” option.
-
-**Accept Terms of Use**  
-Read and accept the terms of use and privacy policy, then click “Accept” or “Continue.”
-
-**Set a Password**  
-Create a secure password to protect your wallet. Ensure the password is strong and memorable. After entering the password, click “Create.”
-
-**Backup the Seed Phrase**  
-MetaMask will generate a set of seed phrases (usually 12 words) for wallet recovery. Be sure to securely store this seed phrase offline and never share it with anyone.  
-Follow the prompts, click “Next,” and confirm that you remember the seed phrase.
-
-**Complete the Setup**  
-After confirming the seed phrase, click “All Done.” You can now access your MetaMask wallet.
-
-### 3. Use the MetaMask Wallet
-
-- **Add Networks**: You can add custom networks (such as Binance Smart Chain) as needed, selected from the network dropdown menu.
-- **Manage Assets**: You can view and manage your digital assets, send, and receive cryptocurrencies in MetaMask.
-- **Access DApps**: Use MetaMask to connect to various decentralized applications (DApps) for trading, lending, participating in DeFi, etc.
-
-> By following these steps, you can successfully install MetaMask and create your own wallet. Be sure to securely store your seed phrase and password to ensure the safety of your assets.
+**确认安装：**  
+按照浏览器的提示，确认添加MetaMask扩展。安装完成后，浏览器右上角会出现MetaMask的图标。
 
 ---
 
-## iOS Devices
+### 二、创建MetaMask钱包
 
-Here are the steps to install and create a MetaMask wallet on an iPhone:
+**打开MetaMask扩展：**  
+点击浏览器右上角的MetaMask图标，打开MetaMask扩展。
 
-### 1. Install MetaMask
+**开始设置：**  
+点击“开始使用”按钮。
 
-**Open the App Store**  
-On your iPhone, find and open the “App Store.”
+**创建新钱包：**  
+选择“创建钱包”选项。
 
-**Search for MetaMask**  
-Type “MetaMask” into the search bar of the App Store, then hit search.
+**接受使用条款：**  
+阅读并接受使用条款和隐私政策，然后点击“接受”或“继续”。
 
-**Download the App**  
-Locate the MetaMask app in the search results and click “Get” or the cloud icon to download and install.
+**设置密码：**  
+创建一个安全的密码，用于保护您的钱包。确保密码强度高并且记住它。输入密码后，点击“创建”。
 
-**Wait for Installation to Complete**  
-Once installed, you can find the MetaMask app icon on your home screen.
+**备份助记词：**  
+MetaMask会生成一组助记词（通常是12个单词），用于恢复您的钱包。请务必将这组助记词安全地保存在离线的地方，不要与任何人分享。  
+按照提示，点击“下一步”并确认您记住了助记词。
 
-### 2. Create a MetaMask Wallet
-
-**Open the MetaMask App**  
-Tap the MetaMask icon on your home screen to launch the app.
-
-**Start Setup**  
-Click “Get Started” or “Create a New Wallet” button.
-
-**Accept Terms**  
-Read and accept the terms of use and privacy policy, then click “Accept” or “Continue.”
-
-**Set a Password**  
-Create a strong password to protect your wallet. After entering the password, click “Create.”
-
-**Backup the Seed Phrase**  
-MetaMask will generate a set of seed phrases (usually 12 words) for wallet recovery. Make sure to keep this seed phrase secure and offline, and do not share it with others.  
-Follow the prompts, click “Next,” and confirm that you remember the seed phrase.
-
-**Complete the Setup**  
-After confirming the seed phrase, click “Done.” You can now access your MetaMask wallet.
-
-### 3. Use the MetaMask Wallet
-
-- **Add Networks**: If needed, you can add custom networks (like Binance Smart Chain) through the wallet interface.
-- **Manage Assets**: You can view and manage your digital assets, send, and receive cryptocurrencies in MetaMask.
-- **Access DApps**: Use MetaMask to connect to various decentralized applications (DApps) for trading, lending, participating in DeFi, etc.
-
-### Important Notes
-
-- **Security**: Ensure that you securely store your seed phrase and password to protect your assets. Never share this information with others or store it on online platforms.
-- **Regular Updates**: Keep the MetaMask app updated to ensure you have the latest features and security fixes.
+**完成设置：**  
+完成助记词确认后，点击“全部完成”。您现在可以访问您的MetaMask钱包。
 
 ---
 
-## Android Devices
+### 三、使用MetaMask钱包
 
-Here are the steps to install and create a MetaMask wallet on an Android device:
+- **添加网络：** 您可以根据需要添加自定义网络（如币安智能链等），通过网络下拉菜单进行选择。
+- **管理资产：** 您可以在MetaMask中查看和管理您的数字资产、发送和接收加密货币。
+- **访问DApp：** 使用MetaMask连接到各种去中心化应用（DApp），进行交易、借贷、参与DeFi等活动。
 
-### 1. Install MetaMask
-
-**Open the Google Play Store**  
-On your Android device, find and open the “Google Play Store.”
-
-**Search for MetaMask**  
-Enter “MetaMask” in the search bar and hit search.
-
-**Download the App**  
-Find the MetaMask app in the search results and click the “Install” button to download and install.
-
-**Wait for Installation to Complete**  
-Once installed, you can find the MetaMask app icon on your home screen or in your app list.
-
-### 2. Create a MetaMask Wallet
-
-**Open the MetaMask App**  
-Tap the MetaMask icon on your home screen or in your app list to launch the app.
-
-**Start Setup**  
-Click “Get Started” or “Create a New Wallet” button.
-
-**Accept Terms**  
-Read and accept the terms of use and privacy policy, then click “Accept” or “Continue.”
-
-**Set a Password**  
-Create a secure password to protect your wallet. After entering the password, click “Create.”
-
-**Backup the Seed Phrase**  
-MetaMask will generate a set of seed phrases (usually 12 words) for wallet recovery. Be sure to securely store this seed phrase offline and do not share it with anyone.  
-Follow the prompts, click “Next,” and confirm that you remember the seed phrase.
-
-**Complete the Setup**  
-After confirming the seed phrase, click “Done.” You can now access your MetaMask wallet.
-
-### 3. Use the MetaMask Wallet
-
-- **Add Networks**: If needed, you can add custom networks (like Binance Smart Chain) through the wallet interface.
-- **Manage Assets**: You can view and manage your digital assets, send, and receive cryptocurrencies in MetaMask.
-- **Access DApps**: Use MetaMask to connect to various decentralized applications (DApps) for trading, lending, participating in DeFi, etc.
-
-### Important Notes
-
-- **Security**: Ensure that you securely store your seed phrase and password to protect your assets. Never share this information with others or store it on online platforms.
-- **Regular Updates**: Keep the MetaMask app updated to ensure you have the latest features and security fixes.
+> 按照以上步骤，您就可以成功安装MetaMask并创建自己的钱包。务必妥善保管助记词和密码，以确保您的资产安全。
 
 ---
 
-> By following these steps, you can successfully install and create a MetaMask wallet on your Android device.
+## IOS设备
+
+在苹果手机上安装和创建MetaMask钱包的步骤如下：
+
+### 一、安装MetaMask
+
+**打开App Store：**  
+在您的苹果手机上，找到并打开“App Store”。
+
+**搜索MetaMask：**  
+在App Store的搜索栏中输入“MetaMask”，然后点击搜索。
+
+**下载应用：**  
+在搜索结果中找到MetaMask应用，点击“获取”或云朵图标进行下载和安装。
+
+**等待安装完成：**  
+安装完成后，您可以在主屏幕上找到MetaMask应用图标。
+
+---
+
+### 二、创建MetaMask钱包
+
+**打开MetaMask应用：**  
+点击主屏幕上的MetaMask图标，启动应用。
+
+**开始设置：**  
+点击“开始”或“创建新钱包”按钮。
+
+**接受条款：**  
+阅读并接受使用条款和隐私政策，然后点击“接受”或“继续”。
+
+**设置密码：**  
+创建一个强密码，用于保护您的钱包。输入密码后，点击“创建”。
+
+**备份助记词：**  
+MetaMask将生成一组助记词（通常为12个单词），用于恢复您的钱包。请务必将助记词安全地保存在离线地方，切勿与他人分享。  
+按照提示，点击“下一步”，并确认您记住了助记词。
+
+**完成设置：**  
+完成助记词确认后，点击“完成”。您现在可以访问您的MetaMask钱包。
+
+---
+
+### 三、使用MetaMask钱包
+
+- **添加网络：** 如果需要，可以通过钱包界面添加自定义网络（如币安智能链等）。
+- **管理资产：** 您可以在MetaMask中查看和管理您的数字资产、发送和接收加密货币。
+- **访问DApp：** 使用MetaMask连接到各种去中心化应用（DApp），进行交易、借贷、参与DeFi等活动。
+
+---
+
+### 注意事项
+
+- **安全性：** 务必妥善保管您的助记词和密码，以确保您的资产安全。切勿将这些信息分享给他人或存储在在线平台上。
+- **定期更新：** 保持MetaMask应用更新，以确保获得最新的功能和安全修复。
+
+> 按照以上步骤，您就可以成功在苹果手机上安装并创建MetaMask钱包。
+
+---
+
+## 安卓设备
+
+在安卓设备上安装和创建MetaMask钱包的步骤如下：
+
+### 一、安装MetaMask
+
+**打开Google Play商店：**  
+在您的安卓设备上，找到并打开“Google Play商店”。
+
+**搜索MetaMask：**  
+在搜索栏中输入“MetaMask”，然后点击搜索。
+
+**下载应用：**  
+在搜索结果中找到MetaMask应用，点击“安装”按钮进行下载和安装。
+
+**等待安装完成：**  
+安装完成后，您可以在主屏幕或应用列表中找到MetaMask应用图标。
+
+---
+
+### 二、创建MetaMask钱包
+
+**打开MetaMask应用：**  
+点击主屏幕或应用列表中的MetaMask图标，启动应用。
+
+**开始设置：**  
+点击“开始”或“创建新钱包”按钮。
+
+**接受条款：**  
+阅读并接受使用条款和隐私政策，然后点击“接受”或“继续”。
+
+**设置密码：**  
+创建一个安全的密码，用于保护您的钱包。输入密码后，点击“创建”。
+
+**备份助记词：**  
+MetaMask将生成一组助记词（通常是12个单词），用于恢复您的钱包。请务必将这组助记词安全地保存在离线地方，切勿与他人分享。  
+按照提示，点击“下一步”，并确认您记住了助记词。
+
+**完成设置：**  
+完成助记词确认后，点击“完成”。您现在可以访问您的MetaMask钱包。
+
+---
+
+### 三、使用MetaMask钱包
+
+- **添加网络：** 如果需要，可以通过钱包界面添加自定义网络（如币安智能链等）。
+- **管理资产：** 您可以在MetaMask中查看和管理您的数字资产、发送和接收加密货币。
+- **访问DApp：** 使用MetaMask连接到各种去中心化应用（DApp），进行交易、借贷、参与DeFi等活动。
+
+---
+
+### 注意事项
+
+- **安全性：** 务必妥善保管您的助记词和密码，以确保您的资产安全。切勿将这些信息分享给他人或存储在在线平台上。
+- **定期更新：** 保持MetaMask应用更新，以确保获得最新的功能和安全修复。
+
+> 按照以上步骤，您就可以成功在安卓设备上安装并创建MetaMask钱包。

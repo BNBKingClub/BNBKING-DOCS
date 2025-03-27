@@ -1,42 +1,42 @@
 ---
 id: metamask
-title: About MetaMask
-sidebar_label: About MetaMask
+title: 关于 MetaMask
+sidebar_label: 关于 MetaMask
 ---
 
 # MetaMask
 
-MetaMask is a popular decentralized wallet and browser extension primarily used for managing and trading Ethereum and its compatible tokens. It allows users to interact directly with decentralized applications (DApps) in a web browser without the need to download the entire blockchain node. Here are some of the main features and characteristics of MetaMask:
+MetaMask是一款流行的去中心化钱包和浏览器扩展，主要用于管理和交易以太坊及其兼容代币。它允许用户在网页浏览器中直接与去中心化应用（DApp）进行交互，而不需要下载整个区块链的完整节点。以下是MetaMask的一些主要功能和特点：
 
-## Main Features
+## 主要功能
 
-### Digital Asset Management
-Users can securely store, send, and receive Ethereum (ETH) and compatible tokens such as ERC-20 and ERC-721.
+### 数字资产管理
+用户可以安全地存储、发送和接收以太坊（ETH）和ERC-20、ERC-721等兼容代币。
 
-### DApp Interaction
-As a browser extension, MetaMask allows users to interact directly with decentralized applications on the web, such as decentralized exchanges, games, and NFT marketplaces.
+### DApp交互
+MetaMask作为一个浏览器扩展，允许用户直接在网页上与去中心化应用进行交互，例如去中心化交易所、游戏、NFT市场等。
 
-### Private Key Management
-Users' private keys are stored locally, and MetaMask does not save any personal information, ensuring that users have complete control over their assets.
+### 私钥管理
+用户的私钥存储在本地，MetaMask不会保存用户的任何个人信息，确保用户对其资产的完全控制。
 
 ### Multi-Network Support
-In addition to the Ethereum mainnet, MetaMask supports other Ethereum-compatible blockchain networks (such as Binance Smart Chain, Polygon, etc.), allowing users to easily switch between different networks.
+多网络支持：除了以太坊主网，MetaMask还支持其他兼容以太坊的区块链网络（如币安智能链、Polygon等），用户可以轻松切换不同网络。
 
-### Custom RPC
-Users can add custom RPC URLs to connect to other blockchains or private networks.
+### 自定义RPC
+用户可以添加自定义的RPC URL，以连接到其他区块链或专用网络。
 
-### Security
-MetaMask offers various security features, including password protection and mnemonic phrase backup, to help users safeguard their assets.
+### 安全性
+MetaMask提供多种安全功能，包括密码保护和助记词备份，帮助用户保护其资产安全。
 
-## Use Cases
+## 使用场景
 
-### Trading
-Users can participate directly in trades on decentralized exchanges through MetaMask.
+### 交易
+用户可以通过MetaMask直接参与去中心化交易所的交易。
 
 ### DeFi
-Users can borrow, stake, and provide liquidity in decentralized finance applications.
+用户可以在去中心化金融应用中借贷、质押、提供流动性等。
 
 ### NFT
-Users can purchase, sell, and manage non-fungible tokens (NFTs).
+用户可以购买、出售和管理NFT（非同质化代币）。
 
-MetaMask's user-friendly interface and extensive functionality make it one of the most popular tools in the Ethereum ecosystem. 
+MetaMask的用户友好界面和广泛的功能使其成为以太坊生态系统中最受欢迎的工具之一。

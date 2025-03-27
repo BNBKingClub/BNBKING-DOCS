@@ -1,47 +1,44 @@
 ---
 id: pc-connects-to-rpc-url
-title: PC Connects to RPC URL
-sidebar_label: PC Connects to RPC URL
+title: PC浏览器 添加RPC URL
+sidebar_label: PC浏览器 添加RPC URL
 ---
 
-# PC Connects to RPC URL
+# PC浏览器 添加RPC URL
 
-## Opening the MetaMask Extension
+## 打开MetaMask扩展程序
 
-Click the MetaMask icon in your browser's extensions, and enter your password to unlock your wallet.
+    - 在浏览器的拓展程序中点击MetaMask图标，输入密码解锁钱包后。
 
-![Open MetaMask Extension](../../../static/img/screenshot/metamask/open-extension.webp)
+![Open MetaMask Extension](/img/screenshot/metamask/open-extension-CN.webp)
 
-In the extension, click the network switch button in the upper left corner to access the **"Select a Network"** interface.
+    - 在拓展程序中，点击左上角的网络切换按钮，进入 **“选择网络”** 界面
+    - 在弹出的 **“选择网络”** 页面中，点击下方的 **“添加网络”** 按钮
 
-In the pop-up **"Add Network"** page, click the **"Add Network"** button at the bottom.
+![Select Network](/img/screenshot/metamask/select-network-CN.webp)
 
-![Select Network](../../../static/img/screenshot/metamask/select-network.webp)
-
-Click **"Add a network manually"** in the lower left corner of the page.
-
-![Add Manually](../../../static/img/screenshot/metamask/add-network-manually.webp)
-
----
-
-## Fill in Configuration Information
-
-- **Network name**: Enter a name of your choice or the system will automatically assign one  
-- **New RPC URL**: `https://bnb-king.com:8545`  
-- **Chain ID**: `56`  
-- **Currency symbol**: `BNB`  
-- **Block explorer URL**: (Optional)
-
-![Network Form](../../../static/img/screenshot/metamask/network-form.webp)
+    - 在页面中点击左下角的 **“手动添加网络”**
+    
+![Add Manually](/img/screenshot/metamask/add-network-manually-CN.webp)
 
 ---
 
-## Completing the Setup
+## 填写配置信息
 
-After filling in the information, click the **"Save"** button.
+- **网络名称**: 根据自己喜好填写或者系统自动生成。
+- **新的 RPC URL**: `https://bnb-king.com:8545`  
+- **链 ID**: `56`  
+- **货币符号**: `BNB`  
+- **区块浏览器 URL**: 
 
-You can switch to the corresponding network in the pop-up window after adding it.
+![Network Form](/img/screenshot/metamask/network-form-CN.webp)
 
-You can also click the network drop-down menu in the upper left corner of the interface to select the corresponding network for switching.
+---
 
-![Save Network](../../../static/img/screenshot/metamask/save-network.webp)
+## 完成设置
+
+填写完成后，点击 **“保存”** 按钮。可以在添加完成的弹窗中切换至对应的网络。
+
+也可以在界面左上角，点击网络下拉菜单，选择对应的网络进行切换。
+
+![Save Network](/img/screenshot/metamask/save-network-CN.webp)

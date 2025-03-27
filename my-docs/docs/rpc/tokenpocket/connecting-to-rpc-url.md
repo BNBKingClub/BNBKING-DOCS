@@ -1,38 +1,37 @@
 ---
 id: connecting-to-rpc-url
-title: Connecting to RPC URL
-sidebar_label: Connecting to RPC URL
+title: 移动设备 添加RPC URL
+sidebar_label: 移动设备 添加RPC URL
 ---
 
-# Connecting to RPC URL
+# 移动设备 添加RPC URL
 
-## Open the TokenPocket Application
-    - Click on the wallet icon in the upper right corner of the main interface.
-    - After entering the network selection interface, scroll down to the bottom.
+## 打开TokenPocket应用
+    - 在主界面点击右上角的钱包图标
+    - 进入网络选择界面后，往下拉至底部
 
-![MetaMask Main Interface](../../../static/img/screenshot/tokenpocket/mobile-main-interface.webp)
+![MetaMask Main Interface](/img/screenshot/tokenpocket/mobile-main-interface-CN.webp)
 
-## Add a Custom Network
-    - At the bottom of the network selection page, click "Add custom network."
-    - After entering the "Custom Network" interface, fill in the required configuration information:
+## 添加自定义网络
+    - 在选择网络页面最底部，点击 **“添加自定义网络”**
+    - 进入 **"Custom Network"** 界面后，根据要求填写对应配置内容
 
-**Custom Configuration Information：**
-    - Network Name: Enter a name of your choice or the system will automatically assign one
-    - **RPC**: `https://bnb-king.com:8545`  
-    - **ChainID**: `56`  
-    - **Default token(Optional)**: `BNB`  
-    - **Browser (Optional)**: (Optional)
+## 自定义配置信息：
+    - 网络名称: 根据自己喜好填写或系统自动生成。
+    - **节点链接 RPC**:  `https://bnb-king.com:8545`  
+    - **链ID**: `56`
+    - **默认代币符号**: `BNB` 
+    - **区块浏览器**: 
 
-![MetaMask Main Interface](../../../static/img/screenshot/tokenpocket/mobile-custom-networks.webp)
+![MetaMask Main Interface](/img/screenshot/tokenpocket/mobile-custom-networks-CN.webp)
 
-## Switch to the Custom Network
-    - After adding the custom network, click on that network at the bottom of the network selection interface to switch.
-    - In the pop-up menu, choose "Create New Wallet" or "Import Wallet."
+## 切换到自定义网络
+    - 自定义网络添加完成后，在网络选择界面最下方点击该网络进行切换
+    - 在弹出菜单中选择 **“新建钱包”** 或 **“导入钱包”**
+![MetaMask Main Interface](/img/screenshot/tokenpocket/mobile-switch-network-CN.webp)
 
-![MetaMask Main Interface](../../../static/img/screenshot/tokenpocket/mobile-switch-network.webp)
+    - 根据内容选择适合你的选项后即可使用该网络
 
-    - After selecting the option that suits you, you can start using that network.
+![MetaMask Main Interface](/img/screenshot/tokenpocket/mobile-finish-CN.webp)
 
-![MetaMask Main Interface](../../../static/img/screenshot/tokenpocket/mobile-finish.webp)
-
-By following these steps, you can successfully add a custom RPC URL in TokenPocket and interact with the new network.
+通过这些步骤，你就可以在TokenPocket中成功添加自定义的RPC URL，并与新网络进行交互。

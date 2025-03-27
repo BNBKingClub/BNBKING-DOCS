@@ -22,10 +22,10 @@ const config: Config = {
     localeConfigs: {
       en: {
         label: 'English',
+        path: 'en', // 英文页面URL前缀（/en/docs/...）
       },
       'zh-CN': {
         label: '简体中文',
-        path: 'zh-CN',
       },
     },
   },
